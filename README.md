@@ -19,6 +19,12 @@ A plataforma que será desenvolvida como proposta para a disciplina Metodologias
 
 # 3. Arquitetura do projeto
 
+O projeto está dividido em 4 áreas principais para facilitar o desenvolvimento e distribuição das equipes
+  1. FrontEnd: Tela Web disponivel para os clientes com as análises obtidas a partir dos dados coletados, permitindo uma interação visual
+  2. BackEnd: Banco de dados relacional para o armazenamento dos dados coletados
+  3. Bot: Crawler para cada site de vendas online, responsável por obter os dados
+  4. Análise de dados: Análise dos dados obtidos, utilizando técnicas estatísticas clássicas e alguns algoritmos de Machine Learning
+
 # 3.1 Tecnologias
 
 # 3.2 Visão Lógica da arquitetura da aplicação
