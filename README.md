@@ -28,4 +28,7 @@ O projeto está dividido em 4 áreas principais para facilitar o desenvolvimento
 # 3.1 Tecnologias
 
 # 3.2 Visão Lógica da arquitetura da aplicação
-![image](https://user-images.githubusercontent.com/41268748/183515157-9aa94897-9caf-4a79-805e-a58c25d9b43d.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/41268748/183515157-9aa94897-9caf-4a79-805e-a58c25d9b43d.png" alt="Sublime's custom image"/>
+</p>
+
