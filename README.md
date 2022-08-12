@@ -39,3 +39,10 @@ Para desenvolvimento das propostas citadas acima foi escolhida as seguintes tecn
   <img src="https://user-images.githubusercontent.com/41268748/183515157-9aa94897-9caf-4a79-805e-a58c25d9b43d.png" alt="Sublime's custom image"/>
 </p>
 
+# 3.3 Visão Lógica da arquitetura de como os dados serão utilizados
+<p align="center">
+  <img src="https://github.com/gabrielsrd/d5-grupo7/blob/main/assets/data.jpg?raw=true" alt="Sublime's custom image"/>
+</p>
+
+
+
