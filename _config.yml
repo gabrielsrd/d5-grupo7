@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+
+title: Strategy Crawler
+
+include:
+  - _pages
