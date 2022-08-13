@@ -11,7 +11,7 @@ Nas issues está definido o Escopo do projeto (Proposta Projeto #1) como também
 </p>
 
 <p align="center">
-  **Strategy Crawler**
+  <strong>Strategy Crawler</strong>
 </p>
 
 Demandas estratégicas são difíceis de tomar, cada vez mais o acúmulo de dados permite ter uma abrangente visão, mas dificulta o olhar o crítico em pequenos cenários e compará-los com o mercado, gerando dúvidas para o tomador de decisão do negócio sobre as melhores decisões a se tomar, envolvendo questões de tendência de mercado, alocação de recursos, estoques, preços etc.
@@ -33,6 +33,11 @@ O projeto está dividido em 4 áreas principais para facilitar o desenvolvimento
 # 3.1 Tecnologias
 
 Para desenvolvimento das propostas citadas acima foi escolhida as seguintes tecnologias:
+
+### 3.1.1 Crawler
+
+Crawlers são robôs automatizados escritos em código de programação que possuem a responsabilidade de raspar a *web*, ou seja, realizam pesquisas em sites pré-definidos e extraem informações úteis segundo a lógica desenvolvidada pelo programador, tudo isso em tempo de execução do programa. Essa estratégia é muito utilizada em *data analytics* pelas empresas. No projeto, nossos crawlers serão desenvolvidos utilizando a linguagem Python, principalmente usando a biblioteca Selenium, por ter a possibilidade de interagir com a página simulando interações reais, é possível realizar testes de interface web de forma automatizada em toda a aplicação desenvolvida, além de ser muito empregado pela industria.
+
   1. Python: Desenvolvimento do Crawler utilizando Selenium como também para a análise de dados
   2. Node/Vue: Desenvolvimento da tela web
   3. Postgresql: Base de dados
