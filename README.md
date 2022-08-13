@@ -30,7 +30,7 @@ O projeto está dividido em 4 áreas principais para facilitar o desenvolvimento
   3. Bot: Crawler para cada site de vendas online, responsável por obter os dados
   4. Análise de dados: Análise dos dados obtidos, utilizando técnicas estatísticas clássicas e alguns algoritmos de Machine Learning
 
-# 3.1 Tecnologias
+## 3.1 Tecnologias
 
 Para desenvolvimento das propostas citadas acima foi escolhida as seguintes tecnologias:
 
@@ -49,9 +49,11 @@ O Frontend será uma aplicação PWA, caracterizada por ser um sistema *adaptati
 
 ### 3.1.5 Banco de dados: MongoDB
 
-### 3.1.5 Lambda + SageMaker: IA/ML
+### 3.1.6 Cache: Redis
 
-# 3.2 Visão Lógica da arquitetura da aplicação
+### 3.1.7 Lambda + SageMaker: IA/ML
+
+## 3.2 Visão Lógica da arquitetura da aplicação
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/41268748/183515157-9aa94897-9caf-4a79-805e-a58c25d9b43d.png" alt="Sublime's custom image"/>
@@ -59,7 +61,7 @@ O Frontend será uma aplicação PWA, caracterizada por ser um sistema *adaptati
 
 Colocar detalhes sobre o percurso dos dados
 
-# 3.3 Visão Lógica da arquitetura de como os dados serão utilizados
+## 3.3 Visão Lógica da arquitetura de como os dados serão utilizados
 
 <p align="center">
   <img src="https://github.com/gabrielsrd/d5-grupo7/blob/main/assets/data.jpg?raw=true" alt="Sublime's custom image"/>
