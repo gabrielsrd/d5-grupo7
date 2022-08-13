@@ -1,13 +1,18 @@
-# D5 - Grupo 7
-# CTEDS
+# CTEDS: D5 - Grupo 7
 
-## Repositório criado para a disciplina D5 - Metodologias Ágeis do curso CTEDS
+### Repositório criado para a disciplina D5 - Metodologias Ágeis do curso CTEDS
 
 Nas issues está definido o Escopo do projeto (Proposta Projeto #1) como também os assuntos dos cards apresentados no board (Projects -> CTEDS - D5)
 
 # 1. Visão Geral
 
-**Nome do projeto**: Strategy Crawler
+<p align="center">
+  <img src="https://github.com/gabrielsrd/d5-grupo7/blob/main/assets/logo.jpg?raw=true" alt="Sublime's custom image"/>
+</p>
+
+<p align="center">
+  **Strategy Crawler**
+</p>
 
 Demandas estratégicas são difíceis de tomar, cada vez mais o acúmulo de dados permite ter uma abrangente visão, mas dificulta o olhar o crítico em pequenos cenários e compará-los com o mercado, gerando dúvidas para o tomador de decisão do negócio sobre as melhores decisões a se tomar, envolvendo questões de tendência de mercado, alocação de recursos, estoques, preços etc.
 
