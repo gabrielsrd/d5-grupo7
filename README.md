@@ -38,21 +38,31 @@ Para desenvolvimento das propostas citadas acima foi escolhida as seguintes tecn
 
 Crawlers são robôs automatizados escritos em código de programação que possuem a responsabilidade de raspar a *web*, ou seja, realizam pesquisas em sites pré-definidos e extraem informações úteis segundo a lógica desenvolvidada pelo programador, tudo isso em tempo de execução do programa. Essa estratégia é muito utilizada em *data analytics* pelas empresas. No projeto, nossos crawlers serão desenvolvidos utilizando a linguagem Python, principalmente usando a biblioteca Selenium, por ter a possibilidade de interagir com a página simulando interações reais, é possível realizar testes de interface web de forma automatizada em toda a aplicação desenvolvida, além de ser muito empregado pela industria.
 
-  1. Python: Desenvolvimento do Crawler utilizando Selenium como também para a análise de dados
-  2. Node/Vue: Desenvolvimento da tela web
-  3. Postgresql: Base de dados
-  4. Lambda + SageMaker: IA/ML
-  5. AWS: Disponibilização do serviço na nuvem
+### 3.1.2 Frontend
+
+O Frontend será uma aplicação PWA, caracterizada por ser um sistema *adaptativo*, onde os dados são apresentados para o usuário em modelos que variam de acordo com o tamanho do *screen* utilizado pelo usuário que realiza a requisição da página. Esse tipo de funcionalidade é muito empregada hoje, permitindo que o usuário tenha mais conforto e interação com as páginas, onde os dados são dispostos da melhor forma possível de acordo com o aparelho. A tecnologia utilizada na construção será o Vue.JS, um framework Javascript *open-source*, focado no desenvolvimento de interfaces de usuário e aplicativos de páginas únicas. Tecnologia muito utilizada atualmente, foi escolhida devido a curva de aprendizado ser relativamente pequena e apresentar um sistema de desenvolvimento de componentes reutilizaveis.
+
+
+### 3.1.3 API: NodeJS
+
+### 3.1.4 Banco de dados: Postgres
+
+### 3.1.5 Banco de dados: MongoDB
+
+### 3.1.5 Lambda + SageMaker: IA/ML
 
 # 3.2 Visão Lógica da arquitetura da aplicação
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/41268748/183515157-9aa94897-9caf-4a79-805e-a58c25d9b43d.png" alt="Sublime's custom image"/>
 </p>
 
+Colocar detalhes sobre o percurso dos dados
+
 # 3.3 Visão Lógica da arquitetura de como os dados serão utilizados
+
 <p align="center">
   <img src="https://github.com/gabrielsrd/d5-grupo7/blob/main/assets/data.jpg?raw=true" alt="Sublime's custom image"/>
 </p>
 
-
-
+Colocar detalhes sobre a arquitetura
