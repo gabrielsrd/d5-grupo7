@@ -60,6 +60,8 @@ Para a manutenção dos dados de valor do negócio, ou seja, as informações pe
 
 ### 3.1.6 Cache: Redis
 
+No sistema, o usuário pode realizar pesquisas diversas para colher muitas informações sobre produtos através dos nossos crawlers de processamento. Existe um certo delay de inicialização, raspagem, coleta, tratamento e disponibilidade dos dados para o usuário, consequentemente, existe a possibilidade de gerar um certo tipo de "estresse" para pesquisas consecutivas feitas pelo cliente. Portanto, para auxiliar e mitigar o tempo total de respostas, propomos a implementação de caches, que podem armazenar informações já pesquisadas e disponibilizá-las mais rapidamente. A tecnologia utilizada será o Redis, possuindo armazenamento de estrutura de dados em memória, usado como um banco de dados em memória distribuído de chave-valor.      
+
 ### 3.1.7 Lambda + SageMaker: IA/ML
 
 ## 3.2 Visão Lógica da arquitetura da aplicação
