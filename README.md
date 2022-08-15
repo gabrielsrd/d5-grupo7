@@ -64,6 +64,8 @@ No sistema, o usuário pode realizar pesquisas diversas para colher muitas infor
 
 ### 3.1.7 Lambda + SageMaker: IA/ML
 
+No sistema, utilizamos dois serviços da AWS para executar alguns trabalhos de processamento de dados e machine learning. Com o lambda, um serviço gerenciado pela AWS que permite rodar pequenos trechos de códigos como se fosse aplicações independentes, realizamos o processamento e tratamento dos dados retornados dos crawlers e retornamos para API para salvar no banco de dados e retornar para o usuário. No Sagemaker podemos criar cenários de Machine Learning, testando modelos com base nos históricos e dados colhidos das pesquisas realizadas pelos ususários do sistema.
+
 ## 3.2 Visão Lógica da arquitetura da aplicação
 
 <p align="center">
@@ -78,4 +80,4 @@ No sistema, o usuário pode realizar pesquisas diversas para colher muitas infor
 
 # 4. Protótipo 
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FdFQbK5AIRk7qOn1GfuRv7u%2FCrawler-Strategy---CTEDS%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+https://www.figma.com/proto/dFQbK5AIRk7qOn1GfuRv7u/Crawler-Strategy---CTEDS?node-id=24%3A67&scaling=min-zoom&page-id=0%3A1
