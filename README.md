@@ -70,12 +70,12 @@ No sistema, o usuário pode realizar pesquisas diversas para colher muitas infor
   <img src="https://user-images.githubusercontent.com/41268748/183515157-9aa94897-9caf-4a79-805e-a58c25d9b43d.png" alt="Sublime's custom image"/>
 </p>
 
-Colocar detalhes sobre o percurso dos dados
-
 ## 3.3 Visão Lógica da arquitetura de como os dados serão utilizados
 
 <p align="center">
   <img src="https://github.com/gabrielsrd/d5-grupo7/blob/main/assets/data.jpg?raw=true" alt="Sublime's custom image"/>
 </p>
 
-Colocar detalhes sobre a arquitetura
+# 4. Protótipo 
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FdFQbK5AIRk7qOn1GfuRv7u%2FCrawler-Strategy---CTEDS%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
