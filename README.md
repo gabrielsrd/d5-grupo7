@@ -88,3 +88,9 @@ https://www.figma.com/proto/dFQbK5AIRk7qOn1GfuRv7u/Crawler-Strategy---CTEDS?node
 <p align="center">
   https://user-images.githubusercontent.com/55808341/184719150-79a4c0e4-667b-4a54-8dc8-631e29bf770f.jpg
 </p>
+
+## 6 User Stories
+
+<p align="center">
+  https://cdn.discordapp.com/attachments/1003833407043805245/1007810984607494225/epics_features_stories.jpg
+</p>
