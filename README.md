@@ -81,3 +81,10 @@ No sistema, utilizamos dois serviços da AWS para executar alguns trabalhos de p
 # 4. Protótipo 
 
 https://www.figma.com/proto/dFQbK5AIRk7qOn1GfuRv7u/Crawler-Strategy---CTEDS?node-id=24%3A67&scaling=min-zoom&page-id=0%3A1
+
+
+## 5 Planejamento das Histórias de Usuário
+
+<p align="center">
+  https://user-images.githubusercontent.com/55808341/184719150-79a4c0e4-667b-4a54-8dc8-631e29bf770f.jpg
+</p>
